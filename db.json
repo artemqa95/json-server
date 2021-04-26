@@ -1,0 +1,35 @@
+{
+  "calls": [
+    {
+      "id": 1,
+      "duration": "8 sec.",
+      "finishedAt": "2021.03.23 10:16:15",
+      "number": 89998888877,
+      "result": "---",
+      "startAt": "2021.03.23 10:16:07",
+      "status": "Finished",
+      "listened": true,
+      "marks": [
+        "important",
+        "short"
+      ],
+      "theme": [
+        "global"
+      ]
+    },
+    {
+      "id": 2,
+      "duration": "22 sec.",
+      "finishedAt": "2021.03.23 10:14:50",
+      "number": 89998888888,
+      "result": "---",
+      "startAt": "2021.03.23 10:15:12",
+      "status": "Finished",
+      "listened": true,
+      "marks": [
+        "test-tag"
+      ],
+      "theme": []
+    }
+  ]
+}

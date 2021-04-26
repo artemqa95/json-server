@@ -1,0 +1,12 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "proxy": "http://localhost:5000/",
+  "scripts": {
+    "startjson": "json-server --watch --port 5000 db.json --middlewares ./ranges.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
